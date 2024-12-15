@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nmratajagtap 
 - 👀 I’m interested in data analysis, statistical modeling, and software development.
-- 🌱 I’m currently learning advanced probability distributions, data visualization tools (like Tableau and Power BI), and improving my English speaking skills.
+- 🌱 I’m currently learning advanced probability distributions, data visualization tools (like Tableau and Power BI).
 - 💞️ I’m looking to collaborate on agritech projects, data-driven insights, and churn analysis in e-commerce.
 - 📫 How to reach me LinkedIn: Namrata Jagtap
 - 😄 Pronouns:She/Her
