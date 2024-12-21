@@ -1,4 +1,4 @@
-# Mohammad Seraj
+# Namrata Jagtap 
 
 [![Email](https://img.shields.io/badge/Email-mail.nmrata.jagtap@gmail.com-blue)](mailto:mail.nmrata.jagtap@gmail.com)
 
